@@ -105,3 +105,15 @@ INFO - 2016-11-23 03:29:06 --> Fuel\Core\Request::execute - Setting main Request
 INFO - 2016-11-23 03:29:06 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "welcome/404"
 INFO - 2016-11-23 03:29:06 --> Fuel\Core\Request::execute - Called
 INFO - 2016-11-23 03:29:06 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2016-11-23 17:20:24 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = ""
+INFO - 2016-11-23 17:20:24 --> Fuel\Core\Request::execute - Called
+INFO - 2016-11-23 17:20:24 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2016-11-23 17:20:32 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "configcheck"
+INFO - 2016-11-23 17:20:32 --> Fuel\Core\Request::execute - Called
+INFO - 2016-11-23 17:20:32 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2016-11-23 17:21:36 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "configcheck"
+INFO - 2016-11-23 17:21:36 --> Fuel\Core\Request::execute - Called
+INFO - 2016-11-23 17:21:36 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2016-11-23 18:14:42 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = ""
+INFO - 2016-11-23 18:14:42 --> Fuel\Core\Request::execute - Called
+INFO - 2016-11-23 18:14:42 --> Fuel\Core\Request::execute - Setting main Request
